@@ -19,3 +19,7 @@
 [10-Feb-2026 00:37:51 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 8192 bytes) in /workspaces/UX211_Midterm/.wordpress/wp-includes/functions.php on line 655
 [10-Feb-2026 00:38:01 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 28672 bytes) in /workspaces/UX211_Midterm/.wordpress/wp-admin/includes/theme.php on line 774
 [10-Feb-2026 00:38:01 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 8192 bytes) in /workspaces/UX211_Midterm/.wordpress/wp-includes/functions.php on line 655
+[10-Feb-2026 00:39:41 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 4096 bytes) in /workspaces/UX211_Midterm/.wordpress/wp-includes/class-wp-theme-json.php on line 1281
+[10-Feb-2026 00:39:41 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 8192 bytes) in /workspaces/UX211_Midterm/.wordpress/wp-includes/functions.php on line 655
+[10-Feb-2026 00:40:34 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 4096 bytes) in /workspaces/UX211_Midterm/.wordpress/wp-includes/class-wp-theme-json.php on line 1281
+[10-Feb-2026 00:40:34 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 8192 bytes) in /workspaces/UX211_Midterm/.wordpress/wp-includes/functions.php on line 655
